@@ -2,7 +2,7 @@
 layout: post
 title: Docker commands
 ---
----
+
 - docker info
 
 - docker run container_name
@@ -32,4 +32,3 @@ title: Docker commands
 - docker push user/container_name
 
 - docker pull user/container_name
----
