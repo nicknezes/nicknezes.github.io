@@ -8,7 +8,7 @@ Software Development Engineer
 
 ### More Information
 
-Experienced in Golang / Python / C++/Qt
+Experienced in Golang, Python, C++/Qt, Linux
 
 ### Contact me
 
